@@ -1,0 +1,16 @@
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\teclado.exe
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\teclado.pdb
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\bin\Debug\teclado.exe
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\bin\Debug\teclado.pdb
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\teclado.Form1.resources
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\teclado.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bck\BCK23_04_2013_C#\Conectar_Montaje\teclado\teclado\teclado\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\obj\x86\Debug\teclado.Form1.resources
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\obj\x86\Debug\teclado.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\obj\x86\Debug\teclado.csproj.GenerateResource.Cache
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\bin\Debug\teclado.exe
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\bin\Debug\teclado.pdb
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\obj\x86\Debug\teclado.exe
+D:\bck\BCK23_04_2013_C#\C21\teclado\teclado\teclado\obj\x86\Debug\teclado.pdb
